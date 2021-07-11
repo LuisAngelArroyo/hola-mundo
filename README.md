@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# Hola Mundo
+Mi primer repositorio.
 
-Autor: Luis Angel Arroyo.
-fecha: 10 Julio.
+Autor: Luis Angel Arroyo.   
+fecha: 10 Julio.    
